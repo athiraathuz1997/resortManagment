@@ -1,0 +1,704 @@
+@media only screen and (max-width: 2400px) {
+  .stay-hotel-main {
+    padding: 14rem 0 !important;
+  }
+}
+@media only screen and (max-width: 1500px) {
+  .stay-hotel-main {
+    padding: 10rem 0 !important;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .card-text-modified {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .card-insert-img {
+    width: 60px;
+  }
+  .card-insert-number-sec {
+    font-size: 60px;
+  }
+  .card-insert-content-sec {
+    top: 100px;
+  }
+  .card-insert-content-sec h2 {
+    font-size: 18px;
+  }
+  .card-insert-content-sec p {
+    line-height: 17px;
+  }
+  .card-insert-content-bottom-sec {
+    bottom: 8px;
+  }
+  .banner-box {
+    margin-right: 8em;
+  }
+  .card-slider-explore .slick-prev {
+    top: 170px;
+  }
+  .card-slider-explore .slick-next {
+    top: 170px;
+  }
+  .testimonial-content h3 {
+    font-size: 30px;
+  }
+  .testimonial-content p {
+    font-size: 12px;
+    margin-top: 16px;
+  }
+  .img-quote {
+    width: 50px;
+  }
+  .testimonial-person h5 {
+    font-size: 14px;
+  }
+  .text-end {
+    text-align: left !important;
+  }
+  .villas-box-sec {
+    display: none !important;
+  }
+  .villas-explore-sec {
+    padding-top: 0em !important;
+  }
+  .villa-details-main {
+    margin-right: 60px !important;
+  }
+  .facilities-content-sec h4 {
+    font-size: 28px !important;
+  }
+  .facilities-content-sec span {
+    font-size: 14px !important;
+    line-height: 25px !important;
+  }
+}
+@media only screen and (max-width: 1186px) {
+  .get-consultation {
+    padding: 56px 5em;
+  }
+}
+@media only screen and (max-width: 1138px) {
+  .get-consultation {
+    padding: 56px 2em;
+  }
+}
+@media only screen and (max-width: 1020px) {
+  .get-consultation {
+    padding: 56px 1em;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .banner-box {
+    display: none !important;
+  }
+  .nav-logo {
+    width: 250px !important;
+  }
+  .banner-head p {
+    font-size: 48px !important;
+    line-height: 60px !important;
+  }
+  .about-second-follow-sec {
+    bottom: 25px;
+    right: 60px;
+  }
+  .card-insert-content-bottom-sec {
+    bottom: 25px;
+  }
+  .travel-main {
+    padding: 1em 0;
+  }
+  .travel-main:focus {
+    padding: 1em 1em 1em 1em !important;
+  }
+  .travel-main:first-child {
+    padding: 0 0 1em 0;
+  }
+  .get-in-content {
+    padding: 1em 2em;
+  }
+  .get-consultation {
+    padding: 43px 30px;
+    font-size: 14px;
+  }
+  .get-in-content p {
+    font-size: 10px;
+  }
+  .get-in-content h4 {
+    font-size: 18px;
+  }
+  .about-banner-content {
+    top: 40% !important;
+  }
+  .about-head h3 {
+    font-size: 48px !important;
+  }
+  .card-slider-explore .slick-prev {
+    top: 130px;
+  }
+  .card-slider-explore .slick-next {
+    top: 130px;
+  }
+  .padding-right {
+    padding-right: 0em;
+  }
+  .padding-left {
+    padding-left: 0em;
+  }
+  .testimonial-content h3 {
+    font-size: 36px;
+  }
+  .testimonial-content p {
+    font-size: 16px;
+    margin-top: 40px;
+  }
+  .img-quote {
+    width: 60px;
+  }
+  .testimonial-person h5 {
+    font-size: 18px;
+  }
+  .about-welcome-sec h3 {
+    font-size: 36px;
+  }
+  .stay-hotel-content h4 {
+    font-size: 40px;
+  }
+  .explore-sec {
+    padding-bottom: 3em;
+  }
+  .villas-content-sec {
+    padding-top: 3em !important;
+    padding-bottom: 3em !important;
+  }
+  .villa-details-box {
+    border-right: none !important;
+    border-bottom: 1px solid #A9A9A9 !important;
+  }
+  .villa-details-main {
+    background-color: transparent !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding: 0px 12px !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .menu-items.offcanvas-side-items {
+    display: block !important;
+  }
+  .header-line,
+  .nav-menu-Items {
+    display: none !important;
+  }
+  .nav-item-sec {
+    flex-direction: column !important;
+  }
+  .nav-logo {
+    width: 170px !important;
+  }
+  .nav-menu-Items a {
+    font-size: 14px !important;
+  }
+  .about-second-follow-sec {
+    right: 30px;
+  }
+  .explore-main-sec {
+    display: block !important;
+  }
+  .choose-tag-img {
+    width: 90px;
+  }
+  .card-insert-img {
+    width: 40px;
+  }
+  .card-insert-number-sec {
+    font-size: 38px;
+  }
+  .card-insert-content-sec {
+    top: 75px;
+    right: 0px;
+  }
+  .card-insert-content-sec h2 {
+    font-size: 15px;
+  }
+  .card-insert-content-sec p {
+    font-size: 12px;
+  }
+  .card-insert-content-bottom-sec {
+    bottom: 8px;
+    font-size: 11px;
+  }
+  .travel-main:first-child {
+    padding: 0 0 1.2em 0;
+  }
+  .travel-main:focus {
+    padding: 1em 1em 1em 1em !important;
+  }
+  .map-travel {
+    height: 500px;
+  }
+  .get-consultation {
+    padding: 43px 30px;
+    font-size: 14px;
+  }
+  .get-in-touch {
+    display: block !important;
+  }
+  .get-in-content {
+    padding: 2em 3em;
+  }
+  .get-consultation {
+    padding: 43px 30px;
+    font-size: 18px;
+    border-radius: 0px 0px 12px 12px;
+  }
+  .card-slider-explore .slick-prev {
+    top: 180px;
+  }
+  .card-slider-explore .slick-next {
+    top: 180px;
+  }
+  .banner-carousal .slick-prev {
+    display: none !important;
+  }
+  .banner-carousal .slick-next {
+    display: none !important;
+  }
+  .testimonial-content h3 {
+    font-size: 28px;
+  }
+  .testimonial-content p {
+    font-size: 13px;
+    margin-top: 20px;
+  }
+  .img-quote {
+    width: 50px;
+  }
+  .testimonial-person h5 {
+    font-size: 18px;
+  }
+  .about-welcome-sec h3 {
+    font-size: 32px;
+  }
+  .about-welcome-sec h6 {
+    font-size: 12px;
+  }
+  .stay-hotel-content h4 {
+    font-size: 32px;
+  }
+  .stay-hotel-main {
+    padding: 7rem 0 !important;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .navbar-menu-btn {
+    font-size: 12px !important;
+  }
+  .navbar-booking-btn {
+    font-size: 12px !important;
+    padding: 7px 14px !important;
+  }
+  .booking-icon {
+    width: 13px !important;
+    height: auto;
+  }
+  .nav-logo {
+    width: 100px !important;
+  }
+  .navbar-first-sec {
+    margin: 20px 15px !important;
+  }
+  .banner-head p {
+    font-size: 32px !important;
+    line-height: 40px !important;
+  }
+  .home-about-content h2 {
+    font-size: 30px;
+  }
+  .room-suite-main h2 {
+    font-size: 30px;
+  }
+  .chooseUs-content h2 {
+    font-size: 30px;
+  }
+  .blog-content h2 {
+    font-size: 30px;
+  }
+  .chooseUs-content h4 {
+    font-size: 28px;
+  }
+  .img-tag {
+    width: 70px;
+  }
+  .about-first-sec-main {
+    justify-content: flex-start !important;
+    margin-bottom: 15px;
+  }
+  .read-more,
+  .view-all,
+  .explore-more,
+  .book-now,
+  .view-all-card {
+    font-size: 10px;
+  }
+  .choose-play-icon {
+    width: 40px;
+  }
+  .choose-tag-img {
+    width: 70px;
+  }
+  .card-insert-img {
+    width: 70px;
+  }
+  .card-insert-number-sec {
+    font-size: 72px;
+  }
+  .card-insert-content-sec {
+    top: 115px;
+    right: 50px;
+  }
+  .card-insert-content-sec h2 {
+    font-size: 24px;
+  }
+  .card-insert-content-sec p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .card-insert-content-bottom-sec {
+    bottom: 25px;
+    font-size: 16px;
+  }
+  .booking-now-box-content h2 {
+    font-size: 40px;
+  }
+  .booking-now-box {
+    padding: 3em 3em;
+  }
+  .service a {
+    font-size: 14px;
+  }
+  .card-title-modified {
+    font-size: 16px;
+  }
+  .about-head h3 {
+    font-size: 32px !important;
+  }
+  .card-slider-explore-prev {
+    display: none !important;
+  }
+  .card-slider-explore-next {
+    display: none !important;
+  }
+  .room-suite-main h6 {
+    font-size: 14px;
+  }
+  .testimonial-person h6 {
+    font-size: 14px;
+  }
+  .blog-content p {
+    font-size: 14px;
+  }
+  .chooseUs-content p {
+    font-size: 14px;
+  }
+  .card-text-modified {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .about-welcome-sec h3 {
+    font-size: 28px;
+  }
+  .about-welcome-sec h6 {
+    font-size: 12px;
+  }
+  .stay-hotel-content h4 {
+    font-size: 28px;
+  }
+  .stay-hotel-main {
+    padding: 5rem 0 !important;
+  }
+  .explore-sec {
+    padding-bottom: 2em;
+  }
+  .about-welcome-sec p {
+    font-size: 14px;
+  }
+  .about-service-icon-sec h6 {
+    font-size: 14px;
+  }
+  .stay-hotel-content h6 {
+    font-size: 14px;
+  }
+  .villas-car-sec span {
+    font-size: 14px !important;
+  }
+  .newsletter-content-sec label {
+    font-size: 14px !important;
+  }
+  .newsletter-sec-main ::-moz-placeholder {
+    font-size: 14px !important;
+  }
+  .newsletter-sec-main ::placeholder {
+    font-size: 14px !important;
+  }
+  .newsletter-sec-main span {
+    font-size: 14px !important;
+  }
+  .facilities-content-sec h4 {
+    font-size: 24px !important;
+  }
+  .facilities-content-sec span {
+    font-size: 12px !important;
+    line-height: 20px !important;
+  }
+  .hotel-booking-btn {
+    font-size: 14px;
+    padding: 16px 25px;
+  }
+  .hotel-booking-drop {
+    padding: 1.8em 1.5em;
+    font-size: 12px;
+  }
+  .hotel-booking-select-box-text {
+    font-size: 12px;
+    top: 20px;
+    left: 18px;
+  }
+  .check-hotel-booking {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 520px) {
+  .get-consultation {
+    padding: 20px 30px;
+    font-size: 14px;
+  }
+  .get-in-content {
+    padding: 2em 2em;
+  }
+  .get-in-content p {
+    width: auto;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .img-play-btn {
+    width: 50px;
+    height: auto;
+  }
+  .about-second-follow-sec p {
+    font-size: 12px;
+  }
+  .testimonial-content h3 {
+    font-size: 24px;
+  }
+  .testimonial-content {
+    top: 25px;
+  }
+  .img-profile {
+    width: 50px;
+  }
+  .Stars {
+    font-size: 18px;
+  }
+  .testimonial-person h5 {
+    font-size: 14px;
+  }
+  .testimonial-person h6 {
+    font-size: 14px;
+  }
+  .testimonial-quote {
+    bottom: 15px;
+  }
+  .img-quote {
+    width: 45px;
+  }
+  .travel-sec h4 {
+    font-size: 12px;
+  }
+  .travel-place-sec {
+    font-size: 12px;
+  }
+  .travel-last-sec h4 {
+    font-size: 12px;
+  }
+  .travel-last-sec h5 {
+    font-size: 10px;
+  }
+  .paging-show p {
+    font-size: 12px;
+  }
+  .paging .btn {
+    font-size: 8px;
+  }
+  .testimonial-content p {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+  .stay-hotel-content h4 {
+    font-size: 24px;
+  }
+  .stay-hotel-main {
+    padding: 5rem 0 !important;
+  }
+  .villas-image-box-content p {
+    font-size: 12px !important;
+    line-height: 20px !important;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .img-play-btn {
+    width: 30px;
+  }
+  .about-second-follow-sec p {
+    font-size: 12px;
+  }
+  .about-second-follow-sec {
+    bottom: 10px;
+    right: 12px;
+  }
+  .about-second-follow-sec span {
+    padding: 4px 6px;
+    font-size: 8px;
+  }
+  .choose-tag-img {
+    width: 50px;
+  }
+  .map-travel {
+    height: 400px;
+  }
+  .home-about-content h2 {
+    font-size: 26px;
+  }
+  .room-suite-main h2 {
+    font-size: 26px;
+  }
+  .chooseUs-content h2 {
+    font-size: 26px;
+  }
+  .blog-content h2 {
+    font-size: 26px;
+  }
+  .chooseUs-content h4 {
+    font-size: 22px;
+  }
+  .booking-now-box-content h2 {
+    font-size: 36px;
+  }
+  .chooseUs-content h3 {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .testimonial-content h3 {
+    font-size: 16px;
+  }
+  .testimonial-content p {
+    font-size: 8px;
+    margin-top: 15px;
+  }
+  .testimonial-content {
+    top: 20px;
+  }
+  .img-profile {
+    width: 40px;
+  }
+  .Stars {
+    font-size: 14px;
+  }
+  .testimonial-person h5 {
+    font-size: 12px;
+  }
+  .testimonial-person h6 {
+    font-size: 10px;
+  }
+  .testimonial-quote {
+    bottom: 15px;
+  }
+  .img-quote {
+    width: 30px;
+  }
+  .footer {
+    padding: 5em 2em;
+  }
+  .footer-logo {
+    width: 200px;
+  }
+  .room-suite-card-content span {
+    font-size: 16px;
+  }
+  .room-suite-card-content p {
+    font-size: 12px;
+  }
+  .about-welcome-sec h3 {
+    font-size: 24px;
+  }
+  .location-box {
+    width: 200px;
+    position: relative;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .card-insert-img {
+    width: 50px;
+  }
+  .card-insert-number-sec {
+    font-size: 50px;
+  }
+  .card-insert-content-sec h2 {
+    font-size: 16px;
+  }
+  .card-insert-content-sec {
+    top: 90px;
+  }
+  .card-insert-content-bottom-sec {
+    bottom: 8px;
+    font-size: 14px;
+  }
+  .faq-sec h5 {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .home-about-content h2 {
+    font-size: 21px;
+  }
+  .room-suite-main h2 {
+    font-size: 21px;
+  }
+  .chooseUs-content h2 {
+    font-size: 21px;
+  }
+  .blog-content h2 {
+    font-size: 21px;
+  }
+  .location-box {
+    width: 180px;
+    position: relative;
+  }
+  .about-welcome-sec p {
+    font-size: 12px;
+  }
+  .about-service-icon-sec h6 {
+    font-size: 12px;
+  }
+  .stay-hotel-content h6 {
+    font-size: 12px;
+  }
+  .villas-car-sec span {
+    font-size: 12px !important;
+  }
+  .newsletter-content-sec label {
+    font-size: 12px !important;
+  }
+  .newsletter-sec-main ::-moz-placeholder {
+    font-size: 12px !important;
+  }
+  .newsletter-sec-main ::placeholder {
+    font-size: 12px !important;
+  }
+  .newsletter-sec-main span {
+    font-size: 12px !important;
+  }
+}/*# sourceMappingURL=media-query.css.map */
