@@ -541,7 +541,7 @@
 
 .room-suite-main p {
   color: #fff;
-  font-size: 12px;
+  font-size: 14px;
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
@@ -1270,10 +1270,7 @@
 
 .hotel-booking-form-head h5 {
   font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
   color: #666;
   text-transform: uppercase;
   font-size: 14px;
@@ -1281,34 +1278,27 @@
 
 .hotel-booking-form-head h3 {
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
 }
 
 .hotel-booking-select-box {
-  border: none;
-  color: #fff;
-  width: 100%;
   position: relative;
-  height: 60px;
   background-color: #fff;
+  border: none;
+  width: 100%;
+  height: 60px;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .hotel-booking-select-box-text {
   position: absolute;
-  z-index: 1;
-  border: none;
-  font-size: 16px;
   top: 16px;
   left: 24px;
+  font-size: 16px;
   color: #000;
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
 }
 
 .check-hotel-booking {
@@ -1318,16 +1308,14 @@
   background-color: transparent !important;
   border: none !important;
   color: #000 !important;
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
+  padding-right: 10px;
+  padding-left: 140px;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
 }
 
 .check-hotel-booking::-webkit-calendar-picker-indicator {
-  filter: invert(80%) sepia(62%) saturate(3817%) hue-rotate(287deg) brightness(91%) contrast(91%) !important;
-  /* Black color */
+  filter: invert(58%) sepia(16%) saturate(2431%) hue-rotate(326deg) brightness(94%) contrast(95%) !important;
 }
 
 .hotel-booking-drop {
@@ -1337,26 +1325,20 @@
   padding: 1em 1.5em;
   font-size: 16px;
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
   display: flex;
   align-items: center;
 }
 
 .hotel-booking-drop.dropdown-toggle::after {
-  display: inline-block;
-  margin-left: 7em;
-  vertical-align: 0.255em;
+  margin-left: auto;
   content: "";
   border-top: 0.3em solid;
   border-right: 0.3em solid transparent;
-  border-bottom: 0;
   border-left: 0.3em solid transparent;
   color: #AA642B !important;
   position: absolute;
-  right: 20px;
+  right: 15px !important;
 }
 
 .hotel-booking-btn {
@@ -1366,10 +1348,14 @@
   padding: 20px 25px;
   border: none;
   font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
   width: 100%;
+  cursor: pointer;
+}
+
+.hotel-booking-img {
+  width: 100%;
+  height: 247px;
 }
 
 .footer {
@@ -1576,6 +1562,13 @@
     line-height: 24px;
   }
 }
+@media only screen and (max-width: 489px) {
+  .banner-box {
+    display: block;
+    width: min-content;
+    margin: auto;
+  }
+}
 @media only screen and (max-width: 1200px) {
   .card-insert-img {
     width: 60px;
@@ -1595,9 +1588,10 @@
   .card-insert-content-bottom-sec {
     bottom: 8px;
   }
-  .banner-box {
+  /* .banner-box {
     margin-right: 8em;
-  }
+  } */
+ 
   .card-slider-explore .slick-prev {
     top: 170px;
   }
@@ -1636,6 +1630,10 @@
     font-size: 14px !important;
     line-height: 25px !important;
   }
+  .hotel-booking-img {
+    width: 100%;
+    height: auto !important;
+  }
 }
 @media only screen and (max-width: 1186px) {
   .get-consultation {
@@ -1653,9 +1651,9 @@
   }
 }
 @media only screen and (max-width: 992px) {
-  .banner-box {
+  /* .banner-box {
     display: none !important;
-  }
+  } */
   .nav-logo {
     width: 250px !important;
   }
@@ -2515,7 +2513,7 @@ body {
 }
 
 .banner-box {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;

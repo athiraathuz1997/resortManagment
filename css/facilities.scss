@@ -95,10 +95,7 @@
 
 .hotel-booking-form-head h5 {
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
     color: #666;
     text-transform: uppercase;
     font-size: 14px;
@@ -106,34 +103,27 @@
 
 .hotel-booking-form-head h3 {
     font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
 }
 
 .hotel-booking-select-box {
-    border: none;
-    color: #fff;
-    width: 100%;
     position: relative;
-    height: 60px;
     background-color: #fff;
+    border: none;
+    width: 100%;
+    height: 60px;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .hotel-booking-select-box-text {
     position: absolute;
-    z-index: 1;
-    border: none;
-    font-size: 16px;
     top: 16px;
     left: 24px;
+    font-size: 16px;
     color: #000;
     font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
 }
 
 .check-hotel-booking {
@@ -143,16 +133,14 @@
     background-color: transparent !important;
     border: none !important;
     color: #000 !important;
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
+    padding-right: 10px;
+    padding-left: 140px;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
 }
 
 .check-hotel-booking::-webkit-calendar-picker-indicator {
-    filter: invert(80%) sepia(62%) saturate(3817%) hue-rotate(287deg) brightness(91%) contrast(91%) !important;
-    /* Black color */
+    filter: invert(58%) sepia(16%) saturate(2431%) hue-rotate(326deg) brightness(94%) contrast(95%) !important;
 }
 
 .hotel-booking-drop {
@@ -162,26 +150,20 @@
     padding: 1em 1.5em;
     font-size: 16px;
     font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
     display: flex;
     align-items: center;
 }
 
 .hotel-booking-drop.dropdown-toggle::after {
-    display: inline-block;
-    margin-left: 7em;
-    vertical-align: .255em;
+    margin-left: auto;
     content: "";
     border-top: .3em solid;
     border-right: .3em solid transparent;
-    border-bottom: 0;
     border-left: .3em solid transparent;
     color: #AA642B !important;
     position: absolute;
-    right: 20px;
+    right: 15px !important;
 }
 
 .hotel-booking-btn {
@@ -191,8 +173,12 @@
     padding: 20px 25px;
     border: none;
     font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
     width: 100%;
+    cursor: pointer;
+}
+
+.hotel-booking-img {
+    width: 100%;
+    height: 247px;
 }

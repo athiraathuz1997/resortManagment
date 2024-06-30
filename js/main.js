@@ -71,7 +71,6 @@
                 ]
             });
         });
-
         // Our Accommodation
 
         // Make Your Stay Memorable
@@ -80,7 +79,7 @@
             $('.card-slider-your-stay').slick({
                 dots: false,
                 infinite: true,
-                speed: 500,
+                speed: 200,
                 slidesToShow: 3,
                 slidesToScroll: 1,
                 autoplay: true,

@@ -47,9 +47,10 @@
 
 .banner-img {
   width: 100%;
-  max-height: 100dvh;
+  height: 100dvh;
+  /* max-height: 100dvh;
   -o-object-fit: cover;
-     object-fit: cover;
+     object-fit: cover; */
 }
 
 .header-bar-sec {

@@ -74,6 +74,10 @@
     font-size: 14px !important;
     line-height: 25px !important;
   }
+  .hotel-booking-img {
+    width: 100%;
+    height: auto !important;
+  }
 }
 @media only screen and (max-width: 1186px) {
   .get-consultation {

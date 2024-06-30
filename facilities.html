@@ -31,7 +31,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample"><i class="fa-solid fa-bars"></i></a>
                 </div>
                 <div>
-                    <img src="image/header_logo.png" id="header-logo" class="nav-logo">
+                    <a href="index.html"><img src="image/header_logo.png" id="header-logo" class="nav-logo"></a>
                 </div>
                 <div class="navbar-booking-btn d-flex align-items-center">
                     <a href="#"><img src="image/booking_img.png" class="booking-icon"><span>Book Now</span></a>
@@ -338,24 +338,24 @@
                     <div class="row">
                         <div class="col-6 mt-3">
                             <div>
-                                <img src="image/facilities_hotel_booking_img_1.png" class="villas-img">
+                                <img src="image/facilities_hotel_booking_img_1.png" class="hotel-booking-img">
                             </div>
                         </div>
                         <div class="col-6 mt-3">
                             <div>
-                                <img src="image/facilities_hotel_booking_img_2.png" class="villas-img">
+                                <img src="image/facilities_hotel_booking_img_2.png" class="hotel-booking-img">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-6 mt-3 mb-3">
                             <div>
-                                <img src="image/facilities_hotel_booking_img_3.png" class="villas-img">
+                                <img src="image/facilities_hotel_booking_img_3.png" class="hotel-booking-img">
                             </div>
                         </div>
                         <div class="col-6 mt-3 mb-3">
                             <div>
-                                <img src="image/facilities_hotel_booking_img_4.png" class="villas-img">
+                                <img src="image/facilities_hotel_booking_img_4.png" class="hotel-booking-img">
                             </div>
                         </div>
                     </div>
@@ -687,9 +687,12 @@
     <script src="js/scroll-top.js"></script>
     <script>
         $(document).ready(function() {
-            AOS.init();
+            AOS.init({
+                duration: 2000 // Animation duration in milliseconds
+            });
         });
     </script>
+
 </body>
 
 </html>
